@@ -1,0 +1,101 @@
+Customer ID,Customer Name,Gender,Age,Contact Number,Email,Membership Status,Payment Mode,Customer Feedback/Rating,Popular Service,Category,Service Type,Peak Time
+CUST001,Customer1,Male,19,9876546048,customer1@mail.com,No,Card,2,Spa Package,Spa,Spa Package,Morning
+CUST002,Customer2,Other,52,9876521395,customer2@mail.com,Platinum,Wallet,1,Spa Package,Spa,Spa Package,Morning
+CUST003,Customer3,Male,32,9876576237,customer3@mail.com,Platinum,Cash,5,Haircut,Hair,Haircut,Afternoon
+CUST004,Customer4,Other,52,9876564987,customer4@mail.com,No,Wallet,5,Spa Package,Spa,Spa Package,Evening
+CUST005,Customer5,Male,45,9876554597,customer5@mail.com,Gold,Card,2,Haircut,Hair,Haircut,Evening
+CUST006,Customer6,Male,42,9876522676,customer6@mail.com,Gold,UPI,5,Haircut,Hair,Haircut,Evening
+CUST007,Customer7,Other,47,9876580284,customer7@mail.com,Yes,Wallet,1,Haircut,Hair,Haircut,Evening
+CUST008,Customer8,Other,41,9876585674,customer8@mail.com,No,Cash,1,Spa Package,Spa,Spa Package,Afternoon
+CUST009,Customer9,Male,32,9876523238,customer9@mail.com,Silver,UPI,4,Massage,Spa,Massage,Evening
+CUST010,Customer10,Female,40,9876537460,customer10@mail.com,Gold,Cash,5,Facial,Skin,Facial,Afternoon
+CUST011,Customer11,Other,33,9876531417,customer11@mail.com,Silver,Wallet,3,Pedicure,Nails,Pedicure,Afternoon
+CUST012,Customer12,Female,21,9876540021,customer12@mail.com,Yes,UPI,4,Spa Package,Spa,Spa Package,Evening
+CUST013,Customer13,Male,54,9876551245,customer13@mail.com,No,Wallet,4,Haircut,Hair,Haircut,Weekend
+CUST014,Customer14,Female,26,9876542325,customer14@mail.com,Platinum,UPI,5,Facial,Skin,Facial,Weekend
+CUST015,Customer15,Female,41,9876538746,customer15@mail.com,No,Wallet,1,Pedicure,Nails,Pedicure,Morning
+CUST016,Customer16,Male,58,9876530969,customer16@mail.com,Silver,Cash,4,Haircut,Hair,Haircut,Weekend
+CUST017,Customer17,Female,51,9876542953,customer17@mail.com,Platinum,Cash,1,Pedicure,Nails,Pedicure,Evening
+CUST018,Customer18,Female,25,9876548469,customer18@mail.com,Silver,Card,4,Spa Package,Spa,Spa Package,Morning
+CUST019,Customer19,Other,34,9876575612,customer19@mail.com,No,Cash,3,Spa Package,Spa,Spa Package,Afternoon
+CUST020,Customer20,Female,28,9876580697,customer20@mail.com,Platinum,Cash,5,Facial,Skin,Facial,Evening
+CUST021,Customer21,Male,25,9876557576,customer21@mail.com,Gold,Card,1,Manicure,Nails,Manicure,Afternoon
+CUST022,Customer22,Male,23,9876573699,customer22@mail.com,Yes,Card,2,Pedicure,Nails,Pedicure,Weekend
+CUST023,Customer23,Male,34,9876579163,customer23@mail.com,Platinum,Wallet,2,Pedicure,Nails,Pedicure,Afternoon
+CUST024,Customer24,Female,43,9876598039,customer24@mail.com,Gold,Wallet,5,Spa Package,Spa,Spa Package,Weekend
+CUST025,Customer25,Male,32,9876518392,customer25@mail.com,Gold,Cash,5,Haircut,Hair,Haircut,Afternoon
+CUST026,Customer26,Male,18,9876519305,customer26@mail.com,Yes,Card,1,Pedicure,Nails,Pedicure,Morning
+CUST027,Customer27,Male,50,9876541195,customer27@mail.com,Gold,Wallet,2,Massage,Spa,Massage,Afternoon
+CUST028,Customer28,Other,54,9876571953,customer28@mail.com,No,Wallet,4,Spa Package,Spa,Spa Package,Afternoon
+CUST029,Customer29,Male,60,9876566498,customer29@mail.com,Gold,Wallet,4,Haircut,Hair,Haircut,Weekend
+CUST030,Customer30,Male,59,9876594696,customer30@mail.com,Yes,Cash,4,Spa Package,Spa,Spa Package,Evening
+CUST031,Customer31,Male,30,9876534931,customer31@mail.com,Platinum,Wallet,2,Haircut,Hair,Haircut,Weekend
+CUST032,Customer32,Female,47,9876542742,customer32@mail.com,Yes,Wallet,5,Facial,Skin,Facial,Morning
+CUST033,Customer33,Other,52,9876511934,customer33@mail.com,Yes,Card,2,Haircut,Hair,Haircut,Weekend
+CUST034,Customer34,Female,31,9876562565,customer34@mail.com,Yes,Card,4,Manicure,Nails,Manicure,Morning
+CUST035,Customer35,Female,47,9876547388,customer35@mail.com,Silver,Wallet,2,Manicure,Nails,Manicure,Afternoon
+CUST036,Customer36,Male,21,9876585914,customer36@mail.com,Platinum,Cash,3,Massage,Spa,Massage,Morning
+CUST037,Customer37,Other,48,9876575909,customer37@mail.com,Platinum,Card,1,Haircut,Hair,Haircut,Morning
+CUST038,Customer38,Male,56,9876518907,customer38@mail.com,No,Wallet,1,Facial,Skin,Facial,Afternoon
+CUST039,Customer39,Other,20,9876591183,customer39@mail.com,Yes,Wallet,5,Pedicure,Nails,Pedicure,Evening
+CUST040,Customer40,Male,60,9876551180,customer40@mail.com,No,UPI,4,Massage,Spa,Massage,Afternoon
+CUST041,Customer41,Other,37,9876569929,customer41@mail.com,Gold,Cash,1,Spa Package,Spa,Spa Package,Weekend
+CUST042,Customer42,Other,24,9876519602,customer42@mail.com,Platinum,Card,5,Pedicure,Nails,Pedicure,Evening
+CUST043,Customer43,Female,22,9876542018,customer43@mail.com,Gold,UPI,2,Facial,Skin,Facial,Weekend
+CUST044,Customer44,Other,37,9876590173,customer44@mail.com,Platinum,Cash,5,Pedicure,Nails,Pedicure,Evening
+CUST045,Customer45,Male,26,9876544664,customer45@mail.com,Yes,Cash,5,Spa Package,Spa,Spa Package,Afternoon
+CUST046,Customer46,Female,56,9876537607,customer46@mail.com,Gold,Card,3,Massage,Spa,Massage,Weekend
+CUST047,Customer47,Male,23,9876593136,customer47@mail.com,Silver,UPI,1,Massage,Spa,Massage,Morning
+CUST048,Customer48,Male,58,9876544335,customer48@mail.com,No,Wallet,5,Massage,Spa,Massage,Weekend
+CUST049,Customer49,Male,25,9876519862,customer49@mail.com,No,Cash,3,Pedicure,Nails,Pedicure,Afternoon
+CUST050,Customer50,Male,20,9876550404,customer50@mail.com,Gold,Cash,3,Manicure,Nails,Manicure,Afternoon
+CUST051,Customer51,Male,45,9876554597,customer5@mail.com,Gold,Card,2,Haircut,Hair,Haircut,Evening
+CUST052,Customer52,Male,42,9876522676,customer6@mail.com,Gold,UPI,5,Haircut,Hair,Haircut,Evening
+CUST053,Customer53,Other,47,9876580284,customer7@mail.com,Yes,Wallet,1,Haircut,Hair,Haircut,Evening
+CUST054,Customer54,Other,41,9876585674,customer8@mail.com,No,Cash,1,Spa Package,Spa,Spa Package,Afternoon
+CUST055,Customer55,Male,32,9876523238,customer9@mail.com,Silver,UPI,4,Massage,Spa,Massage,Evening
+CUST056,Customer56,Female,40,9876537460,customer10@mail.com,Gold,Cash,5,Facial,Skin,Facial,Afternoon
+CUST057,Customer57,Other,33,9876531417,customer11@mail.com,Silver,Wallet,3,Pedicure,Nails,Pedicure,Afternoon
+CUST058,Customer58,Female,21,9876540021,customer12@mail.com,Yes,UPI,4,Spa Package,Spa,Spa Package,Evening
+CUST059,Customer59,Male,54,9876551245,customer13@mail.com,No,Wallet,4,Haircut,Hair,Haircut,Weekend
+CUST060,Customer60,Female,26,9876542325,customer14@mail.com,Platinum,UPI,5,Facial,Skin,Facial,Weekend
+CUST061,Customer61,Female,41,9876538746,customer15@mail.com,No,Wallet,1,Pedicure,Nails,Pedicure,Morning
+CUST062,Customer62,Male,58,9876530969,customer16@mail.com,Silver,Cash,4,Haircut,Hair,Haircut,Weekend
+CUST063,Customer63,Female,51,9876542953,customer17@mail.com,Platinum,Cash,1,Pedicure,Nails,Pedicure,Evening
+CUST064,Customer64,Female,25,9876548469,customer18@mail.com,Silver,Card,4,Spa Package,Spa,Spa Package,Morning
+CUST065,Customer65,Other,34,9876575612,customer19@mail.com,No,Cash,3,Spa Package,Spa,Spa Package,Afternoon
+CUST066,Customer66,Female,28,9876580697,customer20@mail.com,Platinum,Cash,5,Facial,Skin,Facial,Evening
+CUST067,Customer67,Male,25,9876557576,customer21@mail.com,Gold,Card,1,Manicure,Nails,Manicure,Afternoon
+CUST068,Customer68,Male,23,9876573699,customer22@mail.com,Yes,Card,2,Pedicure,Nails,Pedicure,Weekend
+CUST069,Customer69,Male,34,9876579163,customer23@mail.com,Platinum,Wallet,2,Pedicure,Nails,Pedicure,Afternoon
+CUST070,Customer70,Female,43,9876598039,customer24@mail.com,Gold,Wallet,5,Spa Package,Spa,Spa Package,Weekend
+CUST071,Customer71,Male,32,9876518392,customer25@mail.com,Gold,Cash,5,Haircut,Hair,Haircut,Afternoon
+CUST072,Customer72,Male,18,9876519305,customer26@mail.com,Yes,Card,1,Pedicure,Nails,Pedicure,Morning
+CUST073,Customer73,Male,50,9876541195,customer27@mail.com,Gold,Wallet,2,Massage,Spa,Massage,Afternoon
+CUST074,Customer74,Other,54,9876571953,customer28@mail.com,No,Wallet,4,Spa Package,Spa,Spa Package,Afternoon
+CUST075,Customer75,Male,60,9876566498,customer29@mail.com,Gold,Wallet,4,Haircut,Hair,Haircut,Weekend
+CUST076,Customer76,Male,59,9876594696,customer30@mail.com,Yes,Cash,4,Spa Package,Spa,Spa Package,Evening
+CUST077,Customer77,Male,30,9876534931,customer31@mail.com,Platinum,Wallet,2,Haircut,Hair,Haircut,Weekend
+CUST078,Customer78,Female,47,9876542742,customer32@mail.com,Yes,Wallet,5,Facial,Skin,Facial,Morning
+CUST079,Customer79,Other,52,9876511934,customer33@mail.com,Yes,Card,2,Haircut,Hair,Haircut,Weekend
+CUST080,Customer80,Male,45,9876554597,customer5@mail.com,Gold,Card,2,Haircut,Hair,Haircut,Evening
+CUST081,Customer81,Male,42,9876522676,customer6@mail.com,Gold,UPI,5,Haircut,Hair,Haircut,Evening
+CUST082,Customer82,Other,47,9876580284,customer7@mail.com,Yes,Wallet,1,Haircut,Hair,Haircut,Evening
+CUST083,Customer83,Other,41,9876585674,customer8@mail.com,No,Cash,1,Spa Package,Spa,Spa Package,Afternoon
+CUST084,Customer84,Male,32,9876523238,customer9@mail.com,Silver,UPI,4,Massage,Spa,Massage,Evening
+CUST085,Customer85,Female,40,9876537460,customer10@mail.com,Gold,Cash,5,Facial,Skin,Facial,Afternoon
+CUST086,Customer86,Other,33,9876531417,customer11@mail.com,Silver,Wallet,3,Pedicure,Nails,Pedicure,Afternoon
+CUST087,Customer87,Female,21,9876540021,customer12@mail.com,Yes,UPI,4,Spa Package,Spa,Spa Package,Evening
+CUST088,Customer88,Male,54,9876551245,customer13@mail.com,No,Wallet,4,Haircut,Hair,Haircut,Weekend
+CUST089,Customer89,Female,26,9876542325,customer14@mail.com,Platinum,UPI,5,Facial,Skin,Facial,Weekend
+CUST090,Customer90,Female,41,9876538746,customer15@mail.com,No,Wallet,1,Pedicure,Nails,Pedicure,Morning
+CUST091,Customer91,Male,58,9876530969,customer16@mail.com,Silver,Cash,4,Haircut,Hair,Haircut,Weekend
+CUST092,Customer92,Female,51,9876542953,customer17@mail.com,Platinum,Cash,1,Pedicure,Nails,Pedicure,Evening
+CUST093,Customer93,Female,25,9876548469,customer18@mail.com,Silver,Card,4,Spa Package,Spa,Spa Package,Morning
+CUST094,Customer94,Other,34,9876575612,customer19@mail.com,No,Cash,3,Spa Package,Spa,Spa Package,Afternoon
+CUST095,Customer95,Female,28,9876580697,customer20@mail.com,Platinum,Cash,5,Facial,Skin,Facial,Evening
+CUST096,Customer96,Male,25,9876557576,customer21@mail.com,Gold,Card,1,Manicure,Nails,Manicure,Afternoon
+CUST097,Customer97,Male,23,9876573699,customer22@mail.com,Yes,Card,2,Pedicure,Nails,Pedicure,Weekend
+CUST098,Customer98,Male,34,9876579163,customer23@mail.com,Platinum,Wallet,2,Pedicure,Nails,Pedicure,Afternoon
+CUST099,Customer99,Female,43,9876598039,customer24@mail.com,Gold,Wallet,5,Spa Package,Spa,Spa Package,Weekend
+CUST100,Customer100,Male,32,9876518392,customer25@mail.com,Gold,Cash,5,Haircut,Hair,Haircut,Afternoon
